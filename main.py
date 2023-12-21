@@ -34,6 +34,8 @@ while True: #infinite loop
     RPC.update(
         large_image = "armature",
         large_text = "Follow me on GitHub",
+        small_image = "verified",
+        small_text = "Verified Developer",
         details = details,
         state = state,
         start = start,

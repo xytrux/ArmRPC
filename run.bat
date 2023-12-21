@@ -32,5 +32,6 @@
 ::
 ::978f952a14a936cc963da21a135fa983
 @echo off
+pip install -r requirements.txt
 npx nodemon --exec python main.py
 python main.py

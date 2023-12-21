@@ -1,2 +1,2 @@
-run (debug).exe
-run (prod).exe
+run-cmd.exe
+run-hidden.exe
